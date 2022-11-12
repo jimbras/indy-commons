@@ -2,6 +2,7 @@
     "name": "indy/commons",
     "type": "library",
     "description": "Indymedia shared components",
+    "license": "AGPL-3.0",
     "authors": [
         {
             "name": "jimbras",
